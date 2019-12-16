@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ArtifactsWorkspaceSettings">
+    <artifacts-to-build>
+      <artifact name="Example" />
+    </artifacts-to-build>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5a3fd3a5-64b1-4ce9-a5cd-5e5262baaa6c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1V3VDeVmqd2G8oujXUPryzR5i4L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5a3fd3a5-64b1-4ce9-a5cd-5e5262baaa6c" name="Default Changelist" comment="" />
+      <created>1576481646625</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1576481646625</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="235" y="152" width="800" height="672" key="#Project_Structure" timestamp="1576481687434">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="235" y="152" width="800" height="672" key="#Project_Structure/0.0.1280.984@0.0.1280.984" timestamp="1576481687434" />
+    <state x="311" y="232" width="637" height="506" key="FileChooserDialogImpl" timestamp="1576484789002">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="311" y="232" width="637" height="506" key="FileChooserDialogImpl/0.0.1280.984@0.0.1280.984" timestamp="1576484789002" />
+    <state x="123" y="68" width="1024" height="840" key="SettingsEditor" timestamp="1576483659666">
+      <screen x="0" y="0" width="1280" height="984" />
+    </state>
+    <state x="123" y="68" width="1024" height="840" key="SettingsEditor/0.0.1280.984@0.0.1280.984" timestamp="1576483659666" />
+  </component>
+</project>

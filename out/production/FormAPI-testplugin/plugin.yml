@@ -1,0 +1,15 @@
+name: TestPluginForFormAPI
+author: qPexLegendary
+api: 1.0.8
+main: qpi.testplugin.TestPlugin
+version: 1.0.0
+
+commands:
+  simpleform:
+    description: "Тест SimpleForm"
+
+  modalform:
+    description: "Тест ModalForm"
+
+  customform:
+    description: "Тест CustomForm"

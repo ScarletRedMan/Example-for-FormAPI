@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="FormAPI">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../FormAPI-master/out/artifacts/FormAPI/FormAPI.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
